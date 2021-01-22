@@ -1,5 +1,7 @@
 # Elon Musk Quotes
 
+Source/credit: https://github.com/thecookiemonsters/RandomElon
+
 1. "Physics is a good framework for thinking. Boil things down to their fundamental truths and reason up from there.",
 1. "As a child I would just question things...",
 1. "Any product that needs a manual to work is broken.",
