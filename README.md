@@ -1,7 +1,5 @@
 # Elon Musk Quotes
 
-Source/credit: https://github.com/thecookiemonsters/RandomElon
-
 1. "Physics is a good framework for thinking. Boil things down to their fundamental truths and reason up from there."
 1. "As a child I would just question things..."
 1. "Any product that needs a manual to work is broken."
@@ -99,3 +97,5 @@ Source/credit: https://github.com/thecookiemonsters/RandomElon
 1. "You have to be pretty driven to make it happen. Otherwise, you will just make yourself miserable."
 1. "You shouldn’t do things differently just because they’re different. They need to be... better."
 1. "You want to be extra rigorous about making the best possible thing you can. Find everything that’s wrong with it and fix it. Seek negative feedback, particularly from friends."
+
+Source/credit: https://github.com/thecookiemonsters/RandomElon
