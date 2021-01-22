@@ -10,7 +10,6 @@ Source/credit: https://github.com/thecookiemonsters/RandomElon
 1. "Brand is just a perception, and perception will match reality over time."
 1. "Being an entrepreneur is like eating glass and staring into the abyss of death."
 1. "Brand is just a perception, and perception will match reality over time. Sometimes it will be ahead, other times it will be behind. But brand is simply a collective impression some have about a product."
-1. "Being an Entrepreneur is like eating glass and staring into the abyss of death"
 1. "Constantly seek criticism. A well thought out critique of whatever you’re doing is as valuable as gold."
 1. "Constantly think about how you could be doing things better."
 1. "Don’t delude yourself into thinking something’s working when it’s not, or you’re gonna get fixated on a bad solution."
