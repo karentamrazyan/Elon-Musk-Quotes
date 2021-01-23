@@ -51,7 +51,6 @@
 1. "I think most of the important stuff on the Internet has been built."
 1. "I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better. I think that’s the single best piece of advice: constantly think about how you could be doing things better and questioning yourself."
 1. "It’s very important to like the people you work with, otherwise life [and] your job is gonna be quite miserable."
-1. "I always have optimism, but I’m realistic. It was not with the expectation of great success that I started Tesla or SpaceX.... It’s just that I thought they were important enough to do anyway."
 1. "I think life on Earth must be about more than just solving problems... It’s got to be something inspiring, even if it is vicarious."
 1. "If you want to grow a giant redwood, you need to make sure the seeds are OK, nurture the sapling and work out what might potentially stop it from growing all the way along. Anything that breaks it at any point stops that growth."
 1. "I always have optimism, but I’m realistic. It was not with the expectation of great success that I started Tesla or SpaceX. It’s just that I thought they were important enough to do anyway."
